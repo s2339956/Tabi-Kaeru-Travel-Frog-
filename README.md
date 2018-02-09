@@ -2,7 +2,12 @@
 採用 iOS 紀錄檔模式, 提取無限幸運草紀錄檔
 還原原生玩法, 無相關植入, 安心使用
 可依造遊戲更新不會受到限制, 注意此方法並沒有消除廣告與漢化(中文化)
-使用設備: iphone X iOS11.1.2
+
+## 實測環境
+
+* 設備: iphone X
+* 系統: iOS 11.1.2
+
 ![成果](https://github.com/s2339956/Tabi-Kaeru-Travel-Frog-/raw/master/IMG_9404.PNG)
 
 # 所需工具
